@@ -1,34 +1,19 @@
-#About Me
-👋 Hi, I’m Ankit Jha. I'm a passionate full-stack developer who specializes in building dynamic and scalable web applications.  
-💻 I enjoy solving complex coding problems and building innovative projects.  
-🌱 Currently working on **BudMatching**, an earbud matching platform.  
-🎯 Preparing for **Vivnovation internship** focusing on DSA and Java.  
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7A4A4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;Java+DSA+Enthusiast;Building+Awesome+Projects" alt="Typing SVG" /> </div>
 
-#Skills & Technologies
-- 💻 Languages: Java, JavaScript, HTML, CSS  
-- ⚙️ Backend: Node.js, Express.js, MongoDB, AWS S3  
-- 🌐 Frontend: React.js, Redux Toolkit, Tailwind CSS, Material-UI  
-- 🛠️ Tools: Git, GitHub, Postman, VS Code  
-- 🔍 DSA: Recursion, Sliding Window, Binary Search, and more
+⚙️ Tech Stack & Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=javascript,java,nodejs,express,mongodb,aws,react,redux,tailwind,materialui,git,github,vscode,postman" alt="Tech Stack" /> </div>
 
-  #projects
+🚀 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ankit6686510&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit6686510&theme=radical" alt="Streak Stats" width="48%" /> </div>
 
-  ### 🌟 [BudMatching](https://github.com/Ankit6686510/budmatching)
-- 🔥 MERN stack platform to help users find matching earbuds  
-- 💡 Real-time chat using **Socket.io**  
-- 🛠️ Deployed on **AWS**  
+📊 Top Languages
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit6686510&layout=compact&theme=radical" alt="Top Languages" /> </div>
 
-### 🚀 [KARM](https://github.com/Ankit6686510/karm)
-- 💼 Job and internship platform built with MERN stack  
-- 🌐 Real-time application tracking  
-- 🔐 Secure authentication with **JWT & Passport.js**
+📫 Connect With Me
+<div align="center"> <a href="mailto:ankit6686510@gmail.com"><img src="https://img.shields.io/badge/Email-ankit6686510@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a> <a href="https://www.linkedin.com/in/ankiitjhaa/"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Jha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href="https://ankit6686510.github.io/NewPortfolio/"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-green?style=for-the-badge&logo=google-chrome" alt="Portfolio"></a> </div>
 
-- ### Frontend of a Food delivery applications(https://zaikaafood.netlify.app/)
+🎯 Fun Stuff
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" /> </div>
 
-
-#Connect With Me
-- 📧 Email: [ankitjha@example.com](mailto:ankit6686510@gmail.com)  
-- 💼 LinkedIn: [Ankit Jha](https://www.linkedin.com/in/ankiitjhaa/)  
-- 🌐 Portfolio: [ankitjha.dev](https://ankit6686510.github.io/NewPortfolio/)  
-
-
+🔥 Badges & Skills
+<div align="center"> <img src="https://img.shields.io/badge/Java-Master-orange?style=flat&logo=java" /> <img src="https://img.shields.io/badge/Node.js-Expert-green?style=flat&logo=node.js" /> <img src="https://img.shields.io/badge/React-Pro-blue?style=flat&logo=react" /> <img src="https://img.shields.io/badge/MongoDB-Pro-success?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/AWS-Intermediate-yellow?style=flat&logo=amazonaws" /> </div>
