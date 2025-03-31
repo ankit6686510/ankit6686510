@@ -1,5 +1,23 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7A4A4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;Java+DSA+Enthusiast;Building+Awesome+Projects" alt="Typing SVG" /> </div>
 
+🚀 My Projects
+📌 BudMatching – MERN Stack Earbud Matching Platform
+
+🔥 Real-time chat using Socket.io
+💡 AWS S3-based image upload
+🛠️ Deployed on AWS
+
+📌 KARM – Job & Internship Platform
+
+💼 Job listing and real-time application tracking
+🔐 Secure authentication with JWT & Passport.js
+🌐 Built using MERN Stack
+
+📌 Zaikaa Food Delivery – Frontend Project
+
+🌮 Sleek and interactive food delivery website
+🍕 Built with React.js and Tailwind CSS
+
 ⚙️ Tech Stack & Tools
 <div align="center"> <img src="https://skillicons.dev/icons?i=javascript,java,nodejs,express,mongodb,aws,react,redux,tailwind,materialui,git,github,vscode,postman" alt="Tech Stack" /> </div>
 
