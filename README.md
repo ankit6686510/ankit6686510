@@ -28,7 +28,7 @@
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit6686510&layout=compact&theme=radical" alt="Top Languages" /> </div>
 
 📫 Connect With Me
-<div align="center"> <a href="mailto:ankit6686510@gmail.com"><img src="https://img.shields.io/badge/Email-ankit6686510@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a> <a href="https://www.linkedin.com/in/ankiitjhaa/"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Jha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href="https://ankit6686510.github.io/NewPortfolio/"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-green?style=for-the-badge&logo=google-chrome" alt="Portfolio"></a> </div>
+<div align="center"> <a href="mailto:ankit6686510@gmail.com"><img src="https://img.shields.io/badge/Email-ankit6686510@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a> <a href="https://www.linkedin.com/in/ankiitjhaa/"><img src="https://img.shields.io/badge/LinkedIn-Ankit%20Jha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a> <a href=" https://ankit6686510.github.io/AnkitJha/"><img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-green?style=for-the-badge&logo=google-chrome" alt="Portfolio"></a> </div>
 
 🎯 Fun Stuff
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" /> </div>
