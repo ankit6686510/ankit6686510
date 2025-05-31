@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7A4A4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;Java+DSA+Enthusiast;Building+Awesome+Projects" alt="Typing SVG" /> </div>
-**i have not updated it from a long time**
+<div></div>**i have not updated it from a long time**</div>
 🚀 My Projects
 📌 BudMatching – MERN Stack Earbud Matching Platform
 
