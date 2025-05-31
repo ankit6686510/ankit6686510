@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7A4A4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;Java+DSA+Enthusiast;Building+Awesome+Projects" alt="Typing SVG" /> </div>
-
+**i have not updated it from a long time**
 🚀 My Projects
 📌 BudMatching – MERN Stack Earbud Matching Platform
 
@@ -46,3 +46,5 @@
 
 🔥 Badges & Skills
 <div align="center"> <img src="https://img.shields.io/badge/Java-Master-orange?style=flat&logo=java" /> <img src="https://img.shields.io/badge/Node.js-Expert-green?style=flat&logo=node.js" /> <img src="https://img.shields.io/badge/React-Pro-blue?style=flat&logo=react" /> <img src="https://img.shields.io/badge/MongoDB-Pro-success?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/AWS-Intermediate-yellow?style=flat&logo=amazonaws" /> </div>
+
+**i have not updated it from a long time**
