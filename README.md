@@ -155,14 +155,6 @@ A modern food ordering platform with beautiful UI and seamless user experience b
 
 ---
 
-## Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</div>
-
----
-
 ## Activity Graph
 
 <div align="center">
